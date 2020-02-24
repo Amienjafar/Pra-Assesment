@@ -3,8 +3,10 @@ package org.d3if0127.pra_assesment
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.renderscript.ScriptGroup
+import androidx.databinding.DataBindingUtil
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
+import org.d3if0127.pra_assesment.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

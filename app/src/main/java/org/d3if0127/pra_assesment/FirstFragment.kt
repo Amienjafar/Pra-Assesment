@@ -3,9 +3,11 @@ package org.d3if0127.pra_assesment
 
 import android.os.Bundle
 import android.view.*
+import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
+import org.d3if0127.pra_assesment.databinding.FragmentFirstBinding
 
 /**
  * A simple [Fragment] subclass.
